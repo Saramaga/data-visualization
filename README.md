@@ -6,4 +6,5 @@ corso data-visualization
 import pandas as pd
 '''
 
-![my_image](IMG1.jpj
+![my_image](IMG_0042.JPG)
+
